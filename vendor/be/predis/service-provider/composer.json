@@ -1,0 +1,23 @@
+{
+    "name": "predis/service-provider",
+    "type": "library",
+    "description": "Predis service provider for the Silex microframework",
+    "keywords": ["silex", "redis", "predis"],
+    "homepage": "https://github.com/nrk/PredisServiceProvider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniele Alessandri",
+            "email": "suppakilla@gmail.com",
+            "homepage": "http://clorophilla.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"Predis\\Silex": "lib/"}
+    },
+    "require": {
+        "php": ">=5.3.2",
+        "predis/predis": "~0.8.3@stable",
+        "silex/silex": "~1.0"
+    }
+}

@@ -1,0 +1,141 @@
+# PROJECT Website Translation
+# Copyright (C) 2014 PROJECT
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT Website\n"
+"Report-Msgid-Bugs-To: it@ssense.com\n"
+"POT-Creation-Date: 2014-02-02 15:06+0100\n"
+"PO-Revision-Date: 2014-02-05 15:22-0500\n"
+"Last-Translator: \n"
+"Language-Team: PROJECT <it@ssense.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+
+msgid "seo_title_filler"
+msgstr "PROJECT"
+
+#products
+msgid "seo_title_product"
+msgstr "%designer%: %product% | PROJECT"
+
+msgid "seo_description_product"
+msgstr "%description% Shop %designer% %product% at PROJECT today. %code%"
+
+#designers
+msgid "seo_title_designer"
+msgstr "%designer% for %gender% %seasonyear% Collection"
+
+msgid "seo_description_designer"
+msgstr "Free shipping & returns in North America. Shop the latest collection of %designer% for %gender%, shipped internationally."
+
+#categories
+msgid "seo_title_category_designer"
+msgstr "%designer% %category% for %gender%"
+
+msgid "seo_title_category"
+msgstr "Designer %category% for %gender%"
+
+msgid "seo_description_category_designer"
+msgstr "Free shipping & returns in North America. Shop the latest collection of %designer% %category% for %gender%, shipped internationally."
+
+msgid "seo_description_category"
+msgstr "Free shipping & returns in North America. Shop the latest collection of designer %category% for %gender%."
+
+msgid "seo_description_category_sub"
+msgstr "Free shipping & returns in North America. Shop the latest collection of designer %subcategory% for %gender%."
+
+#sub categories
+msgid "seo_title_subcategory_designer"
+msgstr "%designer% %subcategory% for %gender%"
+
+msgid "seo_description_subcategory_designer"
+msgstr "Free shipping & returns in North America. Shop the latest collection of %designer% %subcategory% for %gender%, shipped internationally."
+
+msgid "seo_title_subcategory"
+msgstr "Designer %subcategory% for %gender%"
+
+msgid "seo_description_subcategory"
+msgstr "Free shipping & returns in North America. Shop the latest collection of designer %subcategory% for %gender%."
+
+#departments
+msgid "seo_title_department_designer"
+msgstr "%designer% %department% for %gender%"
+
+msgid "seo_description_department_designer"
+msgstr "Free shipping & returns in North America. Shop the latest collection of %designer% %department% for %gender%, shipped internationally."
+
+msgid "seo_title_department"
+msgstr "Designer %department% for %gender%"
+
+msgid "seo_description_department"
+msgstr "Free shipping & returns in North America. Shop the latest collection of designer %department% for %gender%."
+
+#fallback
+msgid "seo_title_fallback"
+msgstr "Designer Clothes, Shoes & %producttype% for %gender%"
+
+msgid "seo_description_fallback"
+msgstr "Free shipping & returns in North America. International delivery, from runway to doorway. Shop the newest collections from over 200 designers."
+
+msgid "seo_fallback_product_men"
+msgstr "Bags"
+
+msgid "seo_fallback_product_women"
+msgstr "Handbags"
+
+msgid "seo_gender_women"
+msgstr "Women"
+
+msgid "seo_gender_men"
+msgstr "Men"
+
+# Reasons
+msgid "reason_sizing"
+msgstr "Sizing"
+
+msgid "reason_cut"
+msgstr "Cut"
+
+msgid "reason_wrong_size_sent"
+msgstr "Wrong size sent"
+
+msgid "reason_item_quality"
+msgstr "Item quality"
+
+msgid "reason_product_looks_different_from_picture"
+msgstr "Product looks different from picture"
+
+msgid "reason_did_not_like_the_item"
+msgstr "Did not like the item"
+
+msgid "reason_item_received_faulty"
+msgstr "Item received faulty"
+
+msgid "reason_item_received_damaged"
+msgstr "Item received damaged"
+
+msgid "reason_item_received_dirty"
+msgstr "Item received dirty"
+
+msgid "reason_item_received_incomplete"
+msgstr "Item received incomplete"
+
+msgid "reason_wrong_item_sent"
+msgstr "Wrong item sent"
+
+msgid "reason_order_cancelled_before_being_shipped"
+msgstr "Order cancelled before being shipped"
+
+msgid "reason_rts"
+msgstr "RTS"
+
+msgid "reason_ordering_mistake"
+msgstr "Ordering mistake"
+
+msgid "reason_other"
+msgstr "Other"

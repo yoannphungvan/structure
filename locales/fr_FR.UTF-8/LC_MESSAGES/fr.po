@@ -1,0 +1,142 @@
+# PROJECT Website Translation
+# Copyright (C) 2014 PROJECT
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT Website\n"
+"Report-Msgid-Bugs-To: it@ssense.com\n"
+"POT-Creation-Date: 2014-02-02 15:06+0100\n"
+"PO-Revision-Date: 2014-02-05 15:22-0500\n"
+"Last-Translator: \n"
+"Language-Team: PROJECT <it@ssense.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+
+msgid "seo_title_filler"
+msgstr "Boutique en ligne"
+
+#products
+msgid "seo_title_product"
+msgstr "%designer%: %product%"
+
+msgid "seo_description_product"
+msgstr "%description% Boutique %designer% %product% chez PROJECT aujourd'hui. %code%"
+
+#designers
+msgid "seo_title_designer"
+msgstr "%designer% %seasonyear% Collection pour %gender%"
+
+msgid "seo_description_designer"
+msgstr "PROJECT presente la dernière collection de %designer% pour %gender%. Découvrez cette saison les pièces les plus recherchées, livrées dans le monde entier."
+
+#categories
+
+msgid "seo_title_category_designer"
+msgstr "%designer% %category% pour %gender% | %seo_title_filler%"
+
+msgid "seo_title_category"
+msgstr "Designer de %category% pour %gender% | %seo_title_filler%"
+
+msgid "seo_description_category_designer"
+msgstr "PROJECT presente la dernière collection de %designer% %category% pour %gender%. Boutique de notre meilleure sélection de designers %category% à l'heure actuelle."
+
+msgid "seo_description_category"
+msgstr "Boutique de créateurs de %category% pour %gender% chez PROJECT et découvre des collaborations exclusives."
+
+msgid "seo_description_category_sub"
+msgstr "Boutique de créateurs de %category% pour %gender% chez PROJECT et découvre des collaborations exclusives. Explorez notre sélection de %subcategories% de grandes marques."
+
+#sub categories
+msgid "seo_title_subcategory_designer"
+msgstr "%designer% %subcategory% pour %gender% | Boutique en ligne"
+
+msgid "seo_description_subcategory_designer"
+msgstr "PROJECT la dernière collection de %designer% %category% pour %gender%. Boutique de notre meilleure sélection créateur de %subcategory% à l'heure actuelle."
+
+msgid "seo_title_subcategory"
+msgstr "Designer de %category% pour %gender% | %seo_title_filler%"
+
+msgid "seo_description_subcategory"
+msgstr "Achetez des %subcategory% de designers pour %gender% chez PROJECT et découvrez des collaborations exclusives. Explorez nos sélections de %category% de grandes marques de luxe dans la tendance actuelle."
+
+#departments
+msgid "seo_title_department_designer"
+msgstr "%designer% %department% for %gender% | %seo_title_filler%"
+
+msgid "seo_description_department_designer"
+msgstr "PROJECT présente la dernière collection de %department% %designer% pour %gender%. Découvrez les pièces de saison les plus recherchées."
+
+msgid "seo_title_department"
+msgstr "Designer %department% pour %gender% | %seo_title_filler%"
+
+msgid "seo_description_department"
+msgstr "PROJECT présente la dernière collection de %department% de designer pour %gender%. Découvrez les pièces de saison les plus recherchées, expédiées à travers le monde."
+
+#fallback
+msgid "seo_title_fallback"
+msgstr "Designers de Vêtements, Chaussures & %producttype% pour %gender%"
+
+msgid "seo_description_fallback"
+msgstr "Nouvelles collections de créateurs de vêtements et d'accessoires pour %gender% chez PROJECT. Explorez notre selection de grandes marques de luxe dans la tendance actuelle."
+
+msgid "seo_fallback_product_men"
+msgstr "Jeans"
+
+msgid "seo_fallback_product_women"
+msgstr "Sacs à main"
+
+msgid "seo_gender_women"
+msgstr "femmes"
+
+msgid "seo_gender_men"
+msgstr "hommes"
+
+# Reasons
+msgid "reason_sizing"
+msgstr "Mauvaise mesures"
+
+msgid "reason_cut"
+msgstr "Mauvaise coupe"
+
+msgid "reason_wrong_size_sent"
+msgstr "Mauvaise taille envoyé"
+
+msgid "reason_item_quality"
+msgstr "Qualité du produit"
+
+msgid "reason_product_looks_different_from_picture"
+msgstr "Le produit semble différent à celui sur la photo"
+
+msgid "reason_did_not_like_the_item"
+msgstr "Je n'aime pas le produit"
+
+msgid "reason_item_received_faulty"
+msgstr "Produit reçu par erreur"
+
+msgid "reason_item_received_damaged"
+msgstr "Produit reçu endomagé"
+
+msgid "reason_item_received_dirty"
+msgstr "Le produit reçu est sale"
+
+msgid "reason_item_received_incomplete"
+msgstr "Le produit reçu est incomplet"
+
+msgid "reason_wrong_item_sent"
+msgstr "Mauvais produit envoyé"
+
+msgid "reason_order_cancelled_before_being_shipped"
+msgstr "Commande annulée avant qu'elle ne soit livrée"
+
+msgid "reason_rts"
+msgstr "RTS"
+
+msgid "reason_ordering_mistake"
+msgstr "Erreur dans la commande"
+
+msgid "reason_other"
+msgstr "Autre"

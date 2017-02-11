@@ -1,0 +1,7 @@
+{
+  "name": "API Documentation",
+  "version": "0.1.0",
+  "description": "Describe all methods available in the REST API",
+  "title": "Custom apiDoc browser title",
+  "url" : "https://www.website.io/api"
+}
